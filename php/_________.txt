@@ -1,0 +1,9 @@
+*auto log out
+
+*masterpassword hashuit -> criptare/decriptare inregistrari
+
+*daca expira o parola nu o mai afisez, dar daca incerc sa adaug iar o parola pentru acelasi (reg_)username si acelasi (reg_)site, ma baga la editare
+
+*generare de parole cu posibilitate de selectat lungime si pool de caractere din care sa fie formata
+
+*posibilitatea de a genera o parola la fel si cand inserez o inregistrare
